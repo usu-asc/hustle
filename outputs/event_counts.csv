@@ -1,0 +1,57 @@
+First Name,Last Name,A-Number,Major OR Program,Graduation Date,Five-Slide Friday,Innovation Lab,Open Forum,Ticket Competition,Student Showcase,Total
+Ryan,Cheney,A02236424,['MDATA'],2025-04-01,2.0,9.0,4.0,1.0,1,23.0
+Elijah,Paul Castaneda,A02419938,['Data Analytics'],2027-04-01,0.0,11.0,3.0,1.0,1,21.0
+Rebecca,Higbee,A02313797,['MDATA'],2025-12-01,0.0,10.0,3.0,0.0,1,18.0
+Brooke,Monson,A02362792,"['Data Analytics', 'Information Systems']",2026-12-01,1.0,9.0,3.0,0.0,1,18.0
+Ben,Hatch,A02189903,['Data Analytics'],2025-04-01,0.0,10.0,3.0,0.0,1,18.0
+Ryan,Nkunda,A02347611,['Information Systems'],2025-04-01,0.0,11.0,1.0,1.0,1,17.0
+Ellie,Angus,A02385269,['Data Analytics'],2026-04-01,0.0,8.0,3.0,0.0,1,16.0
+Briggs,Rober,A02352249,"['Statistics', 'Actuarial Science']",2026-04-01,0.0,10.0,2.0,0.0,1,16.0
+Brianna,Brown ,A02298649,"['Data Analytics', 'Information Systems']",,1.0,5.0,4.0,0.0,1,16.0
+Mckenna,Williams,A02359785,['Marketing'],2026-04-01,0.0,9.0,1.0,1.0,1,15.0
+Jonah,Carlson,A02331414,['MMIS'],2025-12-01,0.0,11.0,0.0,1.0,1,15.0
+Owen,Mendiola,A02329648,['Data Analytics'],,0.0,5.0,2.0,1.0,1,13.0
+Chase,Bowen,A02332124,['Data Analytics'],2026-04-01,2.0,7.0,1.0,0.0,1,13.0
+Molly,Staheli ,A02415801,['Data Analytics'],2027-04-01,0.0,10.0,1.0,0.0,0,12.0
+Micah,Witzel,A02455125,['Economics'],2028-04-01,0.0,8.0,0.0,1.0,1,12.0
+Emma,Deberard,A02363382,['Data Analytics'],2025-04-01,0.0,7.0,1.0,0.0,1,11.0
+Chad,Holyoak,A02441689,['Data Analytics'],2028-04-01,0.0,7.0,2.0,0.0,0,11.0
+Anna,Giles,A02407323,['Data Analytics'],2026-04-01,0.0,7.0,1.0,0.0,1,11.0
+Henry,Cronley,A02399691,['Data Analytics'],2026-04-01,0.0,8.0,0.0,0.0,1,10.0
+Tiandra,Taylor ,A02313182,['MMIS'],2025-08-01,0.0,7.0,0.0,0.0,1,9.0
+Kayt,Smith,A02438583,['Finance'],2028-04-01,0.0,9.0,0.0,0.0,0,9.0
+Hope,Johnson,A02358899,['Information Systems'],2025-04-01,0.0,5.0,2.0,0.0,0,9.0
+Benjamin,Hickenlooper,A02324281,['Data Analytics'],,0.0,7.0,0.0,0.0,1,9.0
+Taylor,Rowser,A02287088,"['Marketing', 'Computer Science']",2025-08-01,0.0,6.0,0.0,1.0,0,8.0
+Michael,Martinez,A02250091,['Information Systems'],2026-04-01,0.0,6.0,0.0,0.0,1,8.0
+Logan,Mons,A02315036,['Data Science'],2027-04-01,0.0,4.0,2.0,0.0,0,8.0
+Evan,Jones,A02416751,['Data Science'],2026-12-01,0.0,4.0,1.0,0.0,1,8.0
+Caleb,Dissel,A02297912,['Data Analytics'],2027-04-01,0.0,6.0,0.0,1.0,0,8.0
+Aubrey,Davis,A02340854,['Data Analytics'],2026-04-01,0.0,6.0,0.0,0.0,1,8.0
+Rhett,Jorgensen,A02240458,['MMIS'],2025-04-01,0.0,7.0,0.0,0.0,0,7.0
+Connor,Arnoldson,A02331537,['Data Analytics'],,0.0,7.0,0.0,0.0,0,7.0
+Harris,Nydegger,A02267946,['Marketing'],2025-04-01,0.0,0.0,3.0,0.0,0,6.0
+Ryan,Seal,A02324672,['Information Systems'],2025-12-01,0.0,1.0,2.0,0.0,0,5.0
+Thomas,Davies,A02356754,['Data Analytics'],2025-04-01,0.0,2.0,1.0,0.0,0,4.0
+Landon,Leishman,A02324402,['Data Analytics'],2026-04-01,0.0,0.0,1.0,0.0,1,4.0
+Vincent,Rohrer,A02369616,['Data Analytics'],2026-04-01,0.0,1.0,0.0,0.0,1,3.0
+Logan,Bennion,A02193961,['Information Systems'],2025-04-01,0.0,3.0,0.0,0.0,0,3.0
+Linda,Volquez,A01105741,['Information Systems'],2025-12-01,0.0,1.0,1.0,0.0,0,3.0
+Hayden,Meek,A02321625,['Data Analytics'],2026-04-01,0.0,3.0,0.0,0.0,0,3.0
+Carter,Grant,A02298650,['Data Analytics'],2025-04-01,0.0,1.0,1.0,0.0,0,3.0
+Brock,Jessop,A02359392,['Information Systems'],2026-04-01,0.0,1.0,0.0,1.0,0,3.0
+Ridge,Todd,A02268140,['Data Analytics'],2024-04-01,0.0,0.0,1.0,0.0,0,2.0
+Layla,Alnadar,A02414012,['Tech Systems'],2024-04-01,0.0,0.0,1.0,0.0,0,2.0
+Kenzie,Hughes,A02412816,"['Data Analytics', 'Accounting']",2027-04-01,0.0,2.0,0.0,0.0,0,2.0
+Kaleah,Olson,A02409483,['Data Analytics'],2027-04-01,0.0,0.0,1.0,0.0,0,2.0
+Joseph,Butler,A02367626,['Data Analytics'],2027-04-01,0.0,0.0,1.0,0.0,0,2.0
+Jonah,Bethers,A02271862,['Data Analytics'],2025-04-01,0.0,0.0,1.0,0.0,0,2.0
+Jashon,Newlun,A02451295,['MS Statistics'],2026-04-01,0.0,2.0,0.0,0.0,0,2.0
+Jacob,Benson,A02271474,"['Data Analytics', 'Information Systems']",2025-12-01,0.0,0.0,1.0,0.0,0,2.0
+Davis,Larsen,A02304760,['Finance'],2025-04-01,0.0,0.0,0.0,1.0,0,2.0
+Claire,Jones,A02340555,"['Data Analytics', 'Information Systems']",2026-04-01,0.0,0.0,1.0,0.0,0,2.0
+Ashley,Bahora,A02454114,['Physics'],2025-12-01,0.0,0.0,1.0,0.0,0,2.0
+Zayne,Maughan,A02305142,['MDATA'],2026-04-01,0.0,1.0,0.0,0.0,0,1.0
+Matthew,Peters,A02362692,['Data Analytics'],2026-04-01,0.0,1.0,0.0,0.0,0,1.0
+Gabe,Warburton,A02362681,['Finance'],2027-04-01,0.0,1.0,0.0,0.0,0,1.0
+Dallin,Byerly,A02369275,['Computer Science'],2025-12-01,0.0,1.0,0.0,0.0,0,1.0
