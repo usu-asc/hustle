@@ -88,6 +88,7 @@ points = {
     "Open Forum":2,
     "Student Showcase":2,
     "TICKET Competition":2,
+    "PyData" :1,
 }
 
 # Calculate total points
@@ -149,3 +150,4 @@ student_events.to_csv("outputs/student_events.csv", index=False)
 ot.columns = ot.columns.str.replace("_", " ").str.title()
 ot.to_csv("outputs/onetap_attendance.csv", index=False)
 # %%
+

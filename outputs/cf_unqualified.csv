@@ -2,37 +2,43 @@ First Name,Last Name,A-Number,Major OR Program,Graduation Date,Reason
 Alec,Bolingbroke,A02218071,['MMIS'],2025-04-01,0 hustle points
 Ella,Wilhelmsen,A02384323,['Data Analytics'],2026-04-01,0 hustle points
 Cody,Guadarrama,A02338064,['Data Analytics'],2026-12-01,0 hustle points
-Alex,,A02376311,"['Information Systems', 'Economics']",2026-04-01,no last name
+Alex,,A02376311,['Information Systems And Economics'],2026-04-01,no last name
+Ryan,Seal,A02324672@USU.EDU,['Is'],2025-12-01,no a-number in onetap
 Caroline,Fox,A02418047,['Accounting'],2027-04-01,0 hustle points
-Lyric,Olson,A02443532,['Information Systems'],2028-12-01,0 hustle points
-Joshua,Osterhout,A02406704,['Finance'],2027-04-01,0 hustle points
+Lyric,Olson,A02443532,['Cybersecurity'],2028-12-01,0 hustle points
+Joshua,Osterhout,A02406704,['Business Finance'],2027-04-01,0 hustle points
 Andrew,Brown,A02327500,['Accounting'],2026-04-01,0 hustle points
-Sara,Crook,A02265043,['Information Systems'],2026-04-01,0 hustle points
-Eric,Matheson,A02334304,['Information Systems'],2025-12-01,0 hustle points
+Sara,Crook,A02265043,['Is'],2026-04-01,0 hustle points
 Sarah,Potter,A02379821,['Data Analytics'],2027-04-01,0 hustle points
-Tyson,Merrill,A02348568,"['Data Analytics', 'Accounting']",2026-04-01,0 hustle points
-Daxton,Barker,A02365119,['Data Analytics'],2027-04-01,0 hustle points
-Marshal,Scott,A02324979,['Information Systems'],2026-04-01,0 hustle points
-Coltan,Van Tassell,A02291459,['Computer Engineering'],2026-12-01,0 hustle points
-Caleb,Gordon,A02381039,"['Data Analytics', 'Information Systems']",2027-04-01,0 hustle points
-Esther,Keller,A02338443,"['Information Systems', 'Economics']",2027-04-01,0 hustle points
-Lauren,Knox,,"['Data Analytics', 'Economics', 'Finance']",2025-04-01,0 hustle points
+Tyson,Merrill,A02348568,['Accounting & Data Analytics'],2026-04-01,0 hustle points
+Marshal,Scott,A02324979,"['Information Systems', 'Data Engineering']",2026-04-01,0 hustle points
+Caleb,Gordon,A02381039,['Data Analytics And Information Systems'],2027-04-01,0 hustle points
+Esther,Keller,A02338443,['Information Systems And Econ'],2027-04-01,0 hustle points
+Lauren,,KNOX,['Econ Dat Finance'],2025-04-01,no last name
 Nicole,Hogge,A02343782,['Data Analytics'],2025-12-01,0 hustle points
-Haylie,Belliston,A02391153,['Information Systems'],2024-12-01,0 hustle points
-Mark,Greenwood,A02361802,"['Finance', 'Economics']",2027-04-01,0 hustle points
+Haylie,Belliston,A02391153,['Is'],2024-12-01,0 hustle points
+Mark,Greenwood,A02361802,['Finance; Economics'],2027-04-01,0 hustle points
 Annelise,Rasmussen,A02314658,['MMIS'],2024-12-01,0 hustle points
 Ethan,Hansen,A02416853,['Data Analytics'],2026-04-01,0 hustle points
 Maddie,Hickman,A02368317,['Data Analytics'],2025-04-01,0 hustle points
-Joe,George,A02421412,"['Information Systems', 'Economics']",2027-04-01,0 hustle points
+Joe,George,A02421412,['Information Systems/ Economics'],2027-04-01,0 hustle points
 Lincoln,Whiting,A02370540,['Data Analytics'],2025-04-01,0 hustle points
 Aria,Thorpe,A02300321,['Information Systems'],2025-08-01,0 hustle points
 Chase,Entwistle,A02312035,['Data Analytics'],2025-04-01,0 hustle points
 Abbey,Owen,A02317771,['Finance'],2026-04-01,0 hustle points
 Ben,Tangen,A02453093,['Computer Science'],2026-12-01,0 hustle points
 Bryce,Lifferth,A02431232,['Finance'],2025-12-01,0 hustle points
-Hailey,Hendrickson,A02359169,['Data Analytics'],2027-04-01,0 hustle points
+Harris,,NYDEGGER,['Marketing'],2025-04-01,no last name
 Abigail,,A02413277,['Marketing'],2026-04-01,no last name
 Joshua,Liddell,A02338711,['Information Systems'],2026-04-01,0 hustle points
-Jaycie,Savage,A02359867,['Marketing'],2025-04-01,0 hustle points
+Jashon,Newlun,A0245129,['MS Statistics'],2026-04-01,no a-number in onetap
+Jaycie,Savage,A02359867,['Marketing Major With A Data Analytics Minor'],2025-04-01,0 hustle points
 Drew,Badger,A02392758,['Information Systems'],2026-04-01,0 hustle points
-Sara,Crook,A02265043,['Information Systems'],2026-12-01,0 hustle points
+Sara,Crook,A02265043,['Is'],2026-12-01,0 hustle points
+Henry,,FINDLAY,['Economics'],2030-04-01,no last name
+Chase,Young,A02332148,['Data Analytics;Economics;Finance'],2026-12-01,0 hustle points
+Morgan,Phillips,A02353756,['Data Analytics'],2026-04-01,0 hustle points
+Jared,Meservy,A02444353,['Economics'],2028-04-01,0 hustle points
+Eric,Pesci,A02403026,['Information Systems'],2027-04-01,0 hustle points
+Anna,Bentley,A02445835,['Data Analytics'],2029-12-01,0 hustle points
+Clarissa,Reynolds,A02436558,['Data Analytics;Information Systems'],2027-04-01,0 hustle points
